@@ -1,4 +1,4 @@
-package com.kode19;
+package com.vicky;
 
 import static org.junit.Assert.assertTrue;
 

@@ -4,18 +4,12 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/demoproject/pom.xml" />
-        <option value="$PROJECT_DIR$/../../spring-example/example1/pom.xml" />
-        <option value="$PROJECT_DIR$/../../spring-example/example2/pom.xml" />
-        <option value="$PROJECT_DIR$/../../spring-example/example3/pom.xml" />
-        <option value="$PROJECT_DIR$/../../spring-example/example4/pom.xml" />
-        <option value="$PROJECT_DIR$/../../spring-example/example5/pom.xml" />
-        <option value="$PROJECT_DIR$/../../spring-example/example6/pom.xml" />
-        <option value="$PROJECT_DIR$/../../spring-example/example7/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-main/example7/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="17" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
