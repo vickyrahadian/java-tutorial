@@ -2,7 +2,7 @@ package com.example.beans;
 
 public class Person {
 
-    public Person(){
+    public Person() {
         System.out.println("Person bean created by Spring");
     }
 
